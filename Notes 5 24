@@ -1,0 +1,26 @@
+
+##Pseudocode for rain inches to gallons:
+
+INITIALIZE rainInches = 1
+INITIALIZE roofLength = 1
+INITIALIZE roofWidth =1
+INITIALIZE galOfWater
+
+DOWHILE roofLength && roofWidth && rainInches are not positive numbers
+    IF roofLength || roofWidth || rainInches are not positive numbers
+        DISPLAY "Invalid input, please try again."
+    ENDIF
+    DISPLAY "Please enter the length of the roof in feet: "
+    ASSIGN INPUT to roofLength 
+    DISPLAY "Please enter the width of the roof in feet: "
+    ASSIGN INPUT to roofLength 
+    DISPLAY "Please enter inches of rainfall: "
+    ASSIGN INPUT to rainInches 
+EMDWHILE
+
+ASSIGN roofLength * roofWidth * 12 / 213 to galOfWater 
+
+DISPLAY "A roof $roofLength feet by $roofWidth feet that gets $roofArea inchs of rainfall, will produce $galOfWater gallons of water."
+
+
+

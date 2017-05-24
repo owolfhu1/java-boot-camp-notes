@@ -1,5 +1,5 @@
 
-##Pseudocode for rain inches to gallons:
+## Pseudocode for rain inches to gallons:
 
 INITIALIZE rainInches = 1
 INITIALIZE roofLength = 1

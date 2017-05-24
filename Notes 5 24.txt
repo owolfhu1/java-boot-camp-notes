@@ -23,3 +23,15 @@ DISPLAY "A roof $roofLength feet by $roofWidth feet that gets $roofArea inchs of
 
 
 
+Java that doesnt get included in pseudocode:
+-imports
+-public static main()
+-comments
+
+
+
+to use virtual machine
+canvas --> intruduction --> dropbox --virtual box to use same setup as class, at home
+
+
+

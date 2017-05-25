@@ -1,0 +1,35 @@
+
+2 data types:
+  -primitave
+    int
+    char
+    float
+    long
+    short
+    boolean
+    double
+    byte
+  -reference 
+    String
+    Integer
+    Object
+    ...
+    (always starts with capital)
+
+
+
+Using 'switch': 
+  switch (variable to swich){
+    case 1: 
+      //if variable to swich is 1 this will run
+    break;
+    case 2:
+      //if variable to swich is 2 this will run
+    break;
+    case 3: case 4:
+      //if var is 3 or 4 this will run
+    break;
+  }
+
+
+

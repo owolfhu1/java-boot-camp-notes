@@ -1,3 +1,16 @@
 notes:
 
+MAKE.jar:
 
+right click className.java
+    export
+        java
+            jar
+save somwhere
+
+
+ADD .jar
+
+base folder, right click
+    build path
+        add external jars

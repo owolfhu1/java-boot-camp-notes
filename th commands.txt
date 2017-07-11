@@ -1,5 +1,8 @@
 
 
+<div th:attr="value=#{value}"></div>
+
+
 
 <script th:inline="javascript">
 /*<![CDATA[*/

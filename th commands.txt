@@ -1,0 +1,9 @@
+
+
+
+<script th:inline="javascript">
+/*<![CDATA[*/
+    var message = [[${message}]];
+    console.log(message);
+/*]]>*/
+</script>
